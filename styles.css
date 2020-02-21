@@ -53,6 +53,8 @@ background-size:130% ;
 text-align: center;
 justify-content: center;
 height:500px ;
+margin-top:20px ;
+margin-bottom:2opx ;
 }
 .message{
     background:transparent ;
