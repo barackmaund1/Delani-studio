@@ -72,5 +72,13 @@ height:500px ;
     justify-content: center;
     text-align: center;
     padding:20px ; 
-    /* margin:15px ; */
+    
+}
+.footer content{
+    margin:20px ;
+    background-color: tomato;
+
+}
+.footerbottom{
+padding:10px ;
 }
