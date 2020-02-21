@@ -68,3 +68,9 @@ height:500px ;
     width:35% ;
     background: transparent;
 }
+.head{
+    justify-content: center;
+    text-align: center;
+    padding:20px ; 
+    /* margin:15px ; */
+}
