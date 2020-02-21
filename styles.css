@@ -3,7 +3,6 @@
     background-image: url(images/assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
     background-size:110% ;
-    /* overflow: hidden; */
     height:100% ;
 }
 .header{
@@ -55,15 +54,17 @@ text-align: center;
 justify-content: center;
 height:500px ;
 }
-.transparent{
+.message{
     background:transparent ;
     margin:18px ;
 }
 .text{
     margin-left:1% ;
     width:35% ;
+    background:transparent ;
 }
 .email{
     margin-right:1% ;
     width:35% ;
+    background: transparent;
 }
