@@ -50,10 +50,12 @@ body{
 .contact{
 background-image: url(images/assets/backgrounds/c_image.jpg);
 background-repeat: no-repeat;
-background-size:100% ;
+background-size:130% ;
 text-align: center;
 justify-content: center;
+height:500px ;
 }
-.transparant{
+.transparent{
     background:transparent ;
+    margin:18px ;
 }
