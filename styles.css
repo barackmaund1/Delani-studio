@@ -47,3 +47,8 @@ body{
    margin-top: 18px;
    margin-bottom:15px ;
 }
+.contact{
+background-image: url(images/assets/backgrounds/c_image.jpg);
+background-repeat: no-repeat;
+background-size:100% ;
+}
