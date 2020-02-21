@@ -54,3 +54,6 @@ background-size:100% ;
 text-align: center;
 justify-content: center;
 }
+.transparant{
+    background:transparent ;
+}
