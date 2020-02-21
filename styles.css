@@ -59,3 +59,11 @@ height:500px ;
     background:transparent ;
     margin:18px ;
 }
+.text{
+    margin-left:1% ;
+    width:35% ;
+}
+.email{
+    margin-right:1% ;
+    width:35% ;
+}
