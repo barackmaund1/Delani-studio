@@ -51,4 +51,6 @@ body{
 background-image: url(images/assets/backgrounds/c_image.jpg);
 background-repeat: no-repeat;
 background-size:100% ;
+text-align: center;
+justify-content: center;
 }
