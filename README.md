@@ -55,7 +55,7 @@ As a user of the application,you will be able to :
  ### Installation Process
 
  ****  
-* Clone to thir repo : git clone https://github..git
+* Clone to thir repo : git clone https://github.com/barackmaund1/Delani-studio
 
 * Unzip the downloaded files in a folder of choice.
 
@@ -64,7 +64,7 @@ As a user of the application,you will be able to :
  [Go Back to the top](#delani-studio)
 ### Live Link 
 
-- Click this link to view the live application https/
+- Click this link to view the live application https://barackmaund1.github.io/Delani-studio/
 
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
