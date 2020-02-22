@@ -59,7 +59,22 @@ body{
    cursor: pointer;
 }
 .hide{
-    display: none; 
+    display: none;
+    color:black;
+    width: 60%;
+    height:60%;
+    background-color:rgba(255, 255, 255, 0.456);
+    position:absolute;
+    top: 30px;
+    left: 50px;
+    bottom: 9px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-top:30%;
+    border:5px solid white ;
+    
    
 }
 

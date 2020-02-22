@@ -16,14 +16,14 @@ $(document).ready(function() {
 
     $(".image").mouseover(function(effect) {
         event.preventDefault();
-        $(this).css("opacity","0.5")
+        $(this).css("opacity","1")
     }).mouseout(function(){
         $(this).css("opacity","1")
     });
 
     // hover effect
     $("#first").hover(function(effect){
-        $(this).html("design");
+        $("#1").toggle();
     })
      $("#second").hover(function(effect){
          $("#2").toggle();
@@ -54,7 +54,7 @@ $(document).ready(function() {
         alert(name+" " + "we have received you message via"+" "+ email+" "+"Thank you for reaching out of us.")
     })
     if(name=""){
-        alert("Kindly enter your name")
+        alert("Kindly enter your")
     }
     else if(email=""){
         alert("please enter the email")
