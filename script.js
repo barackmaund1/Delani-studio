@@ -46,5 +46,12 @@ $(document).ready(function() {
     $("#eighth").hover(function(effect){
         $("#8").toggle();
     })
+    //  form
+    $("#mc-embedded-subscribe-form").submit(() => {
+        var name = document.forms["mc-embedded-subscribe-form"]["FNAME"].value;
+        alert(
+          `${name} we have received your message. Thank you for reaching out to us.`
+        );
+      });
 
 })
