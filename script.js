@@ -46,17 +46,5 @@ $(document).ready(function() {
     $("#eighth").hover(function(effect){
         $("#8").toggle();
     })
-    
 
-    $("#form").submit(function(){
-        var name=$("#name").val();
-        var email=$("#email").val();
-        alert(name+" " + "we have received you message via"+" "+ email+" "+"Thank you for reaching out of us.")
-    })
-    if(name=""){
-        alert("Kindly enter your")
-    }
-    else if(email=""){
-        alert("please enter the email")
-    }
 })
