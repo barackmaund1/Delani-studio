@@ -41,6 +41,12 @@ body{
  #design2{
      display: none;
  }
+ #development2{
+     display: none;
+ }
+ #product2{
+     display: none;
+ }
  /* portfolio */
 .portfolio{
     justify-content:center;
