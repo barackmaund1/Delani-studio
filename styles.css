@@ -58,6 +58,11 @@ body{
    margin-bottom:15px ;
    cursor: pointer;
 }
+.hide{
+    display: none; 
+   
+}
+
 /* contact */
 .contact{
 background-image: url(images/assets/backgrounds/c_image.jpg);
@@ -67,21 +72,31 @@ text-align: center;
 justify-content: center;
 height:500px ;
 margin-top:20px ;
-margin-bottom:2opx ;
+margin-bottom:2px ;
+color: white;
 }
 .message{
     background:transparent ;
     margin:18px ;
+    color:white ;
 }
 .text{
     margin-left:1% ;
     width:35% ;
     background:transparent ;
+    color: white;
 }
 .email{
     margin-right:1% ;
     width:35% ;
     background: transparent;
+    color: white;
+}
+.submit{
+    width:30% ;
+    margin-left:1% ;
+    background: transparent;
+    color: white;
 }
 /* footer */
 .head{
