@@ -50,6 +50,8 @@ $(document).ready(function() {
     $(".header").click(function(){
         $(".image2").slideUp(2000).slideDown(2000);
     })
+
+     
     //  form
     $("#mc-embedded-subscribe-form").submit(() => {
         var name = document.forms["mc-embedded-subscribe-form"]["FNAME"].value;
