@@ -54,9 +54,10 @@ $(document).ready(function() {
      
     //  form
     $("#mc-embedded-subscribe-form").submit(() => {
-        var name = document.forms["mc-embedded-subscribe-form"]["FNAME"].value;
+        var name = $("#name").value();
+        var email=$("#mce-success-response").value()
         alert(
-          `${name} we have received your message. Thank you for reaching out to us.`
+          `${name} we have received your message via ${email} Thank you for reaching out to us.`
         );
       });
 
